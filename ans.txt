@@ -1,0 +1,1 @@
+Enter length: Enter width: Length : 10, Width  : 5
